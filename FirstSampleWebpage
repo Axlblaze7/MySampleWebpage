@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<header<title>My idea of Godzilla</title></header>
+
+<body background="http://wallpoper.com/images/00/41/00/20/bubbles_00410020.jpg">
+<h1 style="text-align:center; color:white; font-size:40px"><Strong>Here is my idea of Godzilla</Strong></h1>
+
+
+<img src="http://consciouslyenlightened.com/wp-content/uploads/2015/08/Godzilla01.jpg" style="width:500px;height:750px;" align="left"/> <!--This is the link to the image of Godzilla allgned left-->
+
+<table style="border-collapse:collapse">                                           <!--I start the table here-->
+ <thead>
+
+ </thead>
+  
+ <tbody>                                                                                                                
+  <tr style="border-top: 1px solid black; border-right:1px solid black; border-left:1px solid black">
+   <td bgcolor="red" colspan="2"><h2>Height</h2></td>
+   <td><h2>3,000ft tall</h2></td> 
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+   <td bgcolor="red" colspan="2"><h2>Weight</h2></td>
+   <td><h2>60 Tons</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+    <td bgcolor="red" colspan="2"><h2>Age</h2></td>
+    <td><h2>70 million years</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+   <td bgcolor="red" colspan="2"><h2>Gender</h2></td>
+   <td><h2>N.A</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+    <td bgcolor="red" colspan="2"><h2>Aliases</h2></td>
+    <td><h2>The black dragon without wings</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+    <td bgcolor="red" colspan="2"><h2>Eyesight</h2></td>
+    <td><h2>2.5 in both eyes</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black">
+    <td bgcolor="red" colspan="2"><h2>Bloodtype</h2></td>
+    <td><h2>AB</h2></td>
+  </tr>
+  <tr style="border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">
+   <td bgcolor="red" colspan="2"><h2>Origins</h2></td>
+   <td><h2>From before the Mesozoic era</h2>
+  </tr>
+ </tbody>
+
+</table>
+
+<h1>Click on the weight, height, or age <br> open up a reply box where you<br> can fill in your own ideas. Be <br>sure to spell correctly or the effect<br>won't work.
+
+</body>
+
+</html>
