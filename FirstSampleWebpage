@@ -15,42 +15,42 @@
   
  <tbody>                                                                                                                
   <tr style="border-top: 1px solid black; border-right:1px solid black; border-left:1px solid black">
-   <td bgcolor="red" colspan="2"><h2>Height</h2></td>
-   <td><h2>3,000ft tall</h2></td> 
+   <td bgcolor="red" colspan="2"><button type="button" button style="background-color:transparent"><h1>Height</h1></button></td>
+   <td><h1>3,000ft tall</h1></td> 
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-   <td bgcolor="red" colspan="2"><h2>Weight</h2></td>
-   <td><h2>60 Tons</h2></td>
+   <td bgcolor="red" colspan="2"><button type="button" button style="background-color:transparent"><h1>Weight</h1></td>
+   <td><h1>60 Tons</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-    <td bgcolor="red" colspan="2"><h2>Age</h2></td>
-    <td><h2>70 million years</h2></td>
+    <td bgcolor="red" colspan="2"><h1>Age</h1></td>
+    <td><h1>70 million years</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-   <td bgcolor="red" colspan="2"><h2>Gender</h2></td>
-   <td><h2>N.A</h2></td>
+   <td bgcolor="red" colspan="2"><button type="button" button style="background-color:transparent"><h1>Gender</h1></td>
+   <td><h1>N.A</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-    <td bgcolor="red" colspan="2"><h2>Aliases</h2></td>
-    <td><h2>The black dragon without wings</h2></td>
+    <td bgcolor="red" colspan="2"><h1>Aliases</h1></td>
+    <td><h1>The black dragon without wings</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-    <td bgcolor="red" colspan="2"><h2>Eyesight</h2></td>
-    <td><h2>2.5 in both eyes</h2></td>
+    <td bgcolor="red" colspan="2"><h1>Eyesight</h1></td>
+    <td><h1>2.5 in both eyes</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black">
-    <td bgcolor="red" colspan="2"><h2>Bloodtype</h2></td>
-    <td><h2>AB</h2></td>
+    <td bgcolor="red" colspan="2"><h1>Bloodtype</h1></td>
+    <td><h1>AB</h1></td>
   </tr>
   <tr style="border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">
-   <td bgcolor="red" colspan="2"><h2>Origins</h2></td>
-   <td><h2>From before the Mesozoic era</h2>
+   <td bgcolor="red" colspan="2"><h1>Origins</h1></td>
+   <td><h1>From before the Mesozoic era</h1>
   </tr>
  </tbody>
 
 </table>
 
-<h1>Click on the weight, height, or age <br> open up a reply box where you<br> can fill in your own ideas. Be <br>sure to spell correctly or the effect<br>won't work.
+<h1>Click on the weight, height, or age to<br> open up a reply box where you<br> can fill in your own ideas. Be <br>sure to spell correctly or the effect<br>won't work.
 
 </body>
 
